@@ -34,3 +34,7 @@
    - useSelector 사용
    - isLoggingIn의 여부에 따라 로그인 중 표시하기
    - data에 따라 로그인/로그아웃 표시하기
+
+### TIP
+   - LOGIN_REQUEST와 같이 여러곳에서 사용할 변하지 않는 상수는 ```const LOGIN_REQUEST = "LOGIN_REQUEST"```로 해주는 것이 좋다.
+
