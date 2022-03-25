@@ -38,3 +38,5 @@
 ### TIP
    - LOGIN_REQUEST와 같이 여러곳에서 사용할 변하지 않는 상수는 ```const LOGIN_REQUEST = "LOGIN_REQUEST"```로 해주는 것이 좋다.
 
+### 블로그
+   - [블로그 보러가기](https://fallacious-smash-138.notion.site/Redux-7f6fe1cebaa5416e9d0ab5b1518a98bd)
