@@ -3,7 +3,7 @@
 ### 1. store만들기
    - redux설치
    - 초깃값 세팅 (initialState)
-   - const store = createStore(리듀서, 초깃값, enhancer) -> 따라서 리듀서를 만들어야 한다.
+   - const store = createStore(리듀서, 초기값, enhancer) -> 따라서 리듀서를 만들어야 한다.
 
 ### 2. reducer 만들기
    - initialState 세팅
